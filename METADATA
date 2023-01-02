@@ -1,18 +1,3 @@
-name: "ply"
-description:
-    ""
-
-third_party {
-  url {
-    type: HOMEPAGE
-    value: "https://github.com/dabeaz/ply.git"
-  }
-  url {
-    type: GIT
-    value: "https://github.com/dabeaz/ply.git"
-  }
-  version: "3.11"
-  last_upgrade_date { year: 2018 month: 05 day: 22 }
-  license_type: NOTICE
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd43c662b19d60794fc27ce750e12a70b8699f4e769f23375922499b2a2d8bd2
+size 295
